@@ -1,5 +1,0 @@
-/BFM
-01_MorphableModel.mat 
-
-/model
-shape_predictor_68_face_landmarks.dat
